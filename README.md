@@ -1,4 +1,5 @@
 # Welcome to Dentistimo Project Wiki!
+![Inline image](Tooth.png)
 
 ## Find dental care close to you
 
