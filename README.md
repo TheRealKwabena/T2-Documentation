@@ -58,6 +58,17 @@ Our system consists of frontend and backend subsystems, in which messages to and
 
 <br>
 
+# UI Figma Design
+
+First version of the UI design of the website:
+
+https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZZ8B5Cm3Sd5hl0i-1  
+
+![figma image](Diagrams/frontend-figma.png)
+
+
+<br>
+
 # Project Design
 
 ## Context Diagram
