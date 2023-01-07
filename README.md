@@ -90,3 +90,16 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 ## Sequence Diagram
 
 ![Sequence Diagram](Diagrams/T2_Sequence_diagram.png)
+## Install
+## Run 
+
+## Technologies
+- Node js 
+- React 
+- MQTT
+- Google Map 
+- Mongo DB
+
+## Licensing
+
+
