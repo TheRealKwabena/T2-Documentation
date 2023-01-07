@@ -78,5 +78,5 @@ Our system consists of frontend and backend subsystems, in which messages to and
 
 ## Sequence Diagram
 
-![Sequence Diagram](Diagrams/Dentistimo_sequence_diagram.png)
+![Sequence Diagram](Diagrams/dentistimo_sequence_diagram2.png)
 
