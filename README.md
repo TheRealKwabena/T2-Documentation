@@ -10,19 +10,14 @@
 
 # Team members
 
-Oscar Reina Gustafsson [gusreinaos@student.gu.se]
+- Oscar Reina Gustafsson [gusreinaos@student.gu.se]
+- Aditya Khadkikar [guskhadad@student.gu.se]
+- Anton Golubenko [gusgoluan@student.gu.se]
+- Kwabena Asare Boström [gusasarkw@student.gu.se]
+- Andreea Fulger [gusandrfu@student.gu.se]
+- Danesh Mohammadi [gusdanemo@student.gu.se]
+- Aleksey Zorin [guszorial@student.gu.se]
 
-Aditya Khadkikar [guskhadad@student.gu.se]
-
-Anton Golubenko [gusgoluan@student.gu.se]
-
-Kwabena Asare Boström [gusasarkw@student.gu.se]
-
-Andreea Fulger [gusandrfu@student.gu.se]
-
-Danesh Mohammadi [gusdanemo@student.gu.se]
-
-Aleksey Zorin [guszorial@student.gu.se]
 
 [gusreinaos@student.gu.se]:mailto:gusreinaos@student.gu.se
 [guskhadad@student.gu.se]:mailto:guskhadad@student.gu.se
