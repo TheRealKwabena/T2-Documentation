@@ -71,18 +71,22 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 
 # Project Design
 
-## Context Diagram
-
-![Context](Diagrams/context-diagram.png)
-
 ## Functional Decomposition
 
-![FDM](Diagrams/fdm.png)
+![FDD](Diagrams/T2_FDD.png)
 
 ## Components Diagram
 
-![Component Diagram](Diagrams/component-diagram.png)
+![Component Diagram](Diagrams/T2_Component_diagram.png)
 
 ## ER Diagram
 
 ![ER Diagram](Diagrams/er-diagram.png)
+
+## Use Case Diagram
+
+![Use Case Diagram](Diagrams/T2_Use_Case_diagram.png)
+
+## Sequence Diagram
+
+![ER Diagram](Diagrams/T2_Sequenc_diagram.png)
