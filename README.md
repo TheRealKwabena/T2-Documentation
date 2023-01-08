@@ -69,6 +69,12 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 
 <br>
 
+# Burndown Charts
+
+![sprint 3](Diagrams/sprint3burndown.png)
+
+<br>
+
 # Project Design
 
 ## Functional Decomposition
