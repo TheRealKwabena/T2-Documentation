@@ -77,6 +77,8 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 
 # Project Design
 
+Our Project Diagrams are provided below, for a more detailed look also [check our presentation on Slideshare](https://www.slideshare.net/slideshow/embed_code/key/FvIav4wG9BAMi5?hostedIn=slideshare&page=upload):
+
 ## Functional Decomposition
 
 ![FDD](Diagrams/T2_FDD.png)
