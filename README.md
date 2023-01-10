@@ -72,7 +72,7 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 # Burndown Charts
 
 ![sprint 3](Diagrams/sprint3burndown.png)
-<img src='Diagrams/Burndown.png' alt='sprint 4 bc'>
+<img src='Diagrams/Burndown.png' alt='sprint 4 bc' style='width: 300px; height: 150px;'>
 
 <br>
 
