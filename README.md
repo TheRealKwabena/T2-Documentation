@@ -10,27 +10,16 @@
 
 # Team members
 
-Oscar Reina Gustafsson [gusreinaos@student.gu.se]
+Oscar Reina Gustafsson
 
-Aditya Khadkikar [guskhadad@student.gu.se]
+Aditya Khadkikar
 
-Anton Golubenko [gusgoluan@student.gu.se]
+Anton Golubenko 
 
-Kwabena Asare Boström [gusasarkw@student.gu.se]
+Kwabena Asare Boström
 
-Andreea Fulger [gusandrfu@student.gu.se]
 
-Danesh Mohammadi [gusdanemo@student.gu.se]
 
-Aleksey Zorin [guszorial@student.gu.se]
-
-[gusreinaos@student.gu.se]:mailto:gusreinaos@student.gu.se
-[guskhadad@student.gu.se]:mailto:guskhadad@student.gu.se
-[gusgoluan@student.gu.se]:mailto:gusgoluan@student.gu.se
-[gusasarkw@student.gu.se]:mailto:gusasarkw@student.gu.se
-[gusandrfu@student.gu.se]:mailto:gusandrfu@student.gu.se
-[gusdanemo@student.gu.se]:mailto:gusdanemo@student.gu.se
-[guszorial@student.gu.se]:mailto:guszorial@student.gu.se
 
 <br>
 
@@ -106,6 +95,14 @@ https://www.figma.com/file/DbQ2tJqaqLWSSC0dJo13Oq/Frontend-V1?node-id=0%3A1&t=qZ
 - MQTT
 - Google Map 
 - Mongo DB
+## Links to the other distributed system's nodes
+
+
+- Availability Checker  [https://github.com/TheRealKwabena/T2-availability-checker]
+- Appointment Handler  [https://github.com/TheRealKwabena/T2-Appointment-Handler]
+- User Interface  [https://github.com/TheRealKwabena/T2-User-Interface]
+- Authentication Handler  [https://github.com/TheRealKwabena/T2-Authentication-Handler]
+
 
 ## Licensing
 
